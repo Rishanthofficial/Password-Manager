@@ -18,8 +18,8 @@ A simple Java-based Password Manager with a graphical user interface (GUI) for s
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/PasswordManager.git
-cd PasswordManager
+git clone https://github.com/Rishanthofficial/Password-Manager.git
+cd Password-Manager
 ```
 
 ### 2. Set Up MySQL Database
@@ -59,4 +59,5 @@ cd PasswordManager
 - To change password generation rules, modify or extend `PasswordGenerator` or `StrongPasswordGenerator`.
 
 ## License
+
 MIT License 
